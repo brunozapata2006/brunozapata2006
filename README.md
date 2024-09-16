@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bruno zapata
+- 👀 I'm interested in learning programming to be able to develop myself as cybersecurity
+- 🌱 I'm currently studying at the UTN university in Argentina. in the first quarter
+- 📫 How to reach me: Brunozapata006@gmail.com
+- ⚡ Fun fact: I like playing video games, it's something I've been passionate about since I was a child :)
